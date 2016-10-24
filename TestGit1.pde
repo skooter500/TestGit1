@@ -5,5 +5,6 @@ void setup()
 
 void draw()
 {
+  line(50, 50, 500, 500);
 }  
   
